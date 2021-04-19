@@ -11,24 +11,24 @@ namespace GsbRapports
     /// </summary>
     public partial class VoirFamillesWindow : Window
     {
-        private readonly WebClient wb;
-        private readonly Secretaire laSecretaire;
-        private readonly string site;
+        private readonly WebClient _wb;
+        private readonly Secretaire _laSecretaire;
+        private readonly string _site;
 
         public VoirFamillesWindow(WebClient wb, Secretaire s, string site)
         {
             InitializeComponent();
-            this.wb = wb;
-            laSecretaire = s;
-            this.site = site;
+            _wb = wb;
+            _laSecretaire = s;
+            _site = site;
 
-            string url = this.site + "familles?ticket=" + laSecretaire.getHashTicketMdp();
-            string reponse = this.wb.DownloadString(url);
+            string url = _site + "familles?ticket=" + _laSecretaire.getHashTicketMdp();
+            string reponse = _wb.DownloadString(url);
             dynamic d = JsonConvert.DeserializeObject(reponse);
             string familles = d.familles.ToString();
             string ticket = d.ticket;
             List<Famille> f = JsonConvert.DeserializeObject<List<Famille>>(familles);
-            laSecretaire.ticket = ticket;
+            _laSecretaire.ticket = ticket;
             dtg_famille.ItemsSource = f;
         }
     }
