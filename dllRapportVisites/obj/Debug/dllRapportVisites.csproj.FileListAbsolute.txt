@@ -1,0 +1,12 @@
+C:\Users\grand\OneDrive\GretaMetehor\PPE\GSB\Mission3ClientLourdServiceRest2019\ClientRestWpf\GsbRapports\dllRapportVisites\bin\Debug\dllRapportVisites.dll
+C:\Users\grand\OneDrive\GretaMetehor\PPE\GSB\Mission3ClientLourdServiceRest2019\ClientRestWpf\GsbRapports\dllRapportVisites\bin\Debug\dllRapportVisites.pdb
+C:\Users\grand\OneDrive\GretaMetehor\PPE\GSB\Mission3ClientLourdServiceRest2019\ClientRestWpf\GsbRapports\dllRapportVisites\obj\Debug\dllRapportVisites.csprojAssemblyReference.cache
+C:\Users\grand\OneDrive\GretaMetehor\PPE\GSB\Mission3ClientLourdServiceRest2019\ClientRestWpf\GsbRapports\dllRapportVisites\obj\Debug\dllRapportVisites.csproj.CoreCompileInputs.cache
+C:\Users\grand\OneDrive\GretaMetehor\PPE\GSB\Mission3ClientLourdServiceRest2019\ClientRestWpf\GsbRapports\dllRapportVisites\obj\Debug\dllRapportVisites.dll
+C:\Users\grand\OneDrive\GretaMetehor\PPE\GSB\Mission3ClientLourdServiceRest2019\ClientRestWpf\GsbRapports\dllRapportVisites\obj\Debug\dllRapportVisites.pdb
+E:\Developpement\Mission3\GsbRapports\GsbRapports\dllRapportVisites\bin\Debug\dllRapportVisites.dll
+E:\Developpement\Mission3\GsbRapports\GsbRapports\dllRapportVisites\bin\Debug\dllRapportVisites.pdb
+E:\Developpement\Mission3\GsbRapports\GsbRapports\dllRapportVisites\obj\Debug\dllRapportVisites.csprojAssemblyReference.cache
+E:\Developpement\Mission3\GsbRapports\GsbRapports\dllRapportVisites\obj\Debug\dllRapportVisites.csproj.CoreCompileInputs.cache
+E:\Developpement\Mission3\GsbRapports\GsbRapports\dllRapportVisites\obj\Debug\dllRapportVisites.dll
+E:\Developpement\Mission3\GsbRapports\GsbRapports\dllRapportVisites\obj\Debug\dllRapportVisites.pdb
